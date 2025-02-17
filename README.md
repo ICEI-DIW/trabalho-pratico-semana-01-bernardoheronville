@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Bernardo Barbosa Heronville 
+Matricula: 892196 
 
 ## Tela de inspeção com navegador
-
+![alt text](Teladeinspecaocomnavegador.png)
 
 ## Tela de projeto no Replit
+![alt text](TeladeprojetonoReplit.png)
 
